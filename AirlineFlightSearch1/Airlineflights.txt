@@ -1,0 +1,6 @@
+  code 272390265  date=2020-11-15T12:30, price=235.0, fromcity='Ankara', tocity='Istanbul', carrier='THY'
+  code 618423624  date=2020-04-15T10:35, price=235.0, fromcity='Ankara', tocity='Istanbul', carrier='THY'
+  code 211776305  date=2020-07-20T12:40, price=235.0, fromcity='Istanbul', tocity='Ankara', carrier='THY'
+  code 567006727  date=2020-12-15T12:30, price=235.0, fromcity='Istanbul', tocity='Ankara', carrier='THY'
+  code 272197252  date=2020-08-15T12:30, price=120.0, fromcity='Istanbul', tocity='Ankara', carrier='THY'
+  code 970830491  date=2020-06-15T12:30, price=200.0, fromcity='Izmir', tocity='Antalya', carrier='Pegasus'
